@@ -5,4 +5,7 @@
     <option name="GENERATE_SEPARATE_XML" value="true" />
     <option name="ADD_TO_UNIT" value="true" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
